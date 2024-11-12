@@ -11,7 +11,7 @@ using ToDoApp.Models;
 
 namespace ToDoApp.Controllers
 {
-    [Authorize]
+    
     public class ToDoController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();

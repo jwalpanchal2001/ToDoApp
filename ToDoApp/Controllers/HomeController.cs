@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace ToDoApp.Controllers
 {
-    [Authorize]
+   
  
     public class HomeController : Controller
     {
